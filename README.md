@@ -1,3 +1,7 @@
+Solution in file `Problem_1\main.m`
+
+---
+
 Problem #1 
 
 Write a function that takes an array of numbers and the length of the array. The array of numbers of can of any length with the numbers being any size. Your function should (a) report the range of the numbers (i.e. min and max), (b) print to screen a list of all numbers within the range that are missing from the array (c) print the count of all numbers that appear 2 or more times within the array.
